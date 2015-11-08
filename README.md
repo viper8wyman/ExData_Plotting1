@@ -1,3 +1,19 @@
+## Modified: viper8wyman 11/07/2015
+### This repo contains the source code in 4 R files:
+ - plot1.R
+ - plot2.R
+ - plot3.R
+ - plot4.R
+
+Additionally, the gzipped file contains the unzipped household_power_consumption.txt file; it is assumed that this is unzipped in the users' local
+directory prior to execution of the 4 plots.
+
+The repo also contains the 4 plots described below:
+ - plot1.png
+ - plot2.png
+ - plot3.png
+ - plot4.png
+
 ## Introduction
 
 This assignment uses data from
